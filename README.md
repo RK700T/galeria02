@@ -1,1 +1,1 @@
-# galeria02
+# galeria-02
